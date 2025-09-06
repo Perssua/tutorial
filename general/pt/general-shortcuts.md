@@ -1,6 +1,6 @@
 # Atalhos Gerais
 
-![Exemplos de atalhos](../assets/general/general-shortcuts/shortcuts-perssua.png)
+![Exemplos de atalhos](/assets/general/general-shortcuts/shortcuts-perssua.png)
 
 ## Visão Geral
 O app inclui um conjunto de atalhos de teclado para melhorar a velocidade e a usabilidade. Eles permitem alternar a visibilidade, capturar screenshots, rolar o chat do Perssua e gravar ou analisar áudio sem sair do fluxo principal.
