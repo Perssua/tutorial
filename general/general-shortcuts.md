@@ -1,6 +1,6 @@
 # General Shortcuts
 
-![Shortcuts examples](../assets/general/general-shortcuts/shortcuts-perssua.png)
+![Shortcuts examples](/assets/general/general-shortcuts/shortcuts-perssua.png)
 
 ## Overview
 The app includes a set of keyboard shortcuts to improve speed and usability. These allow you to quickly change visibility, capture screenshots, scroll through the Perssua chat, and record or analyze audio without leaving the main workflow.
